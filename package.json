@@ -1,0 +1,28 @@
+{
+  "name": "got-names",
+  "version": "1.0.0",
+  "description": "Get random Game of Thrones names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveharmswebdev/got-names.git"
+  },
+  "keywords": [
+    "random",
+    "game",
+    "of",
+    "thrones"
+  ],
+  "author": "Dave Harms <daveharmswebdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveharmswebdev/got-names/issues"
+  },
+  "homepage": "https://github.com/daveharmswebdev/got-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
