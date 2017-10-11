@@ -1,1 +1,1 @@
-# got-names
+# Game of Thrones Names
