@@ -1,6 +1,6 @@
 {
   "name": "got-names-dispenser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get random Game of Thrones names",
   "main": "src/index.js",
   "scripts": {
